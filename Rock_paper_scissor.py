@@ -1,3 +1,6 @@
+# This Python code is implementing a simple Rock, Paper, Scissors game. Here's a breakdown of what the
+# code does:
+
 
 import random
 choices= ('r','p','s')

@@ -1,3 +1,5 @@
+# This Python code snippet creates a simple dice rolling game. Here's a breakdown of what it does:
+
 import random
 
 while True:

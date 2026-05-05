@@ -1,3 +1,7 @@
+# This Python code generates a random number between 1 and 100 using the `random.randint(1, 100)`
+# function. It then prompts the user to enter a number between 1 and 100.
+
+
 import random
 
 a=random.randint(1,100)

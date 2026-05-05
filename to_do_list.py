@@ -1,4 +1,10 @@
+"""
+  The function allows users to manage tasks by adding, updating, deleting, viewing, and exiting tasks
+  in a task management app.
+  """
+
 def tasks():
+
   task = []
   print("___Welcome to task management app___")
   total_task = int(input("Enter how many task you want to add = "))
